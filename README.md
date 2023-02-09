@@ -4,7 +4,7 @@
 ## This project utilizes data modeling, data engineering, and data analysis. 
 
 ## An Entity Relationship Diagram (ERD) of the Tables was created using QuickDBD.
-![ERD image](Images/ERD(1).png) 
+![ERD image](Images/ERD.png) 
 
 # Data Analysis 
 ## List the employee number, last name, first name, sex, and salary of each employee.
